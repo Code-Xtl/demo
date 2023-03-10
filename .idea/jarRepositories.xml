@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="ymm-releases" />
+      <option name="name" value="ymm-releases" />
+      <option name="url" value="http://maven.amh-group.com/artifactory/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ymm-snapshots" />
+      <option name="name" value="ymm-snapshots" />
+      <option name="url" value="http://maven.amh-group.com/artifactory/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ymm-internal-releases" />
+      <option name="name" value="YMM internal repository for released artifacts" />
+      <option name="url" value="http://maven.amh-group.com/artifactory/libs-release" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ymm-third-party" />
+      <option name="name" value="YMM  cache server for external repositories" />
+      <option name="url" value="https://maven.aliyun.com/repository/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ymm-internal-snapshots" />
+      <option name="name" value="YMM internal repository for snapshots artifacts" />
+      <option name="url" value="http://maven.amh-group.com/artifactory/libs-snapshot" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="YMM  proxy server for external repositories" />
+      <option name="url" value="http://maven.amh-group.com/artifactory/remote-repos/" />
+    </remote-repository>
+  </component>
+</project>
